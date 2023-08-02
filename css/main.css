@@ -1,0 +1,39 @@
+
+
+
+
+.nav {
+  color: black;
+  text-align: center;
+  background-color: rgba(88, 90, 89, 0.433);
+}
+
+.product-item {
+
+  width: 23%;
+
+  background-color: rgb(185, 195, 198);
+  text-align: center;
+  margin: 14px;
+
+
+  float: left;
+  margin-bottom: 30px;
+  border-radius: 50px;
+  padding-bottom: 14PX;
+
+}
+
+img {
+  width: 200px;
+  height: 300px;
+
+
+}
+.clear{
+  clear: both;
+
+}
+.nav2{
+  background-color: black;
+}
